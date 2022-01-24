@@ -1,0 +1,8 @@
+{
+	"Helium" : {"atomicNumber" : 2, "name" : "Helium", "symbol" : "He"},
+	"Neon" : {"atomicNumber" : 10, "name" : "Neon", "symbol" : "Ne"},
+	"Argon" : {"atomicNumber" : 18, "name" : "Argon", "symbol" : "Ar"},
+	"Krypton" : {"atomicNumber" : 36, "name" : "Krypton", "symbol" : "Kr"},
+	"Xenon" : {"atomicNumber" : 54, "name" : "Xenon", "symbol" : "Xe"},
+	"Radon" : {"atomicNumber" : 85, "name" : "Radon", "symbol" : "Rn"}
+}
